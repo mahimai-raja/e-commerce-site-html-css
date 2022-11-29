@@ -1,2 +1,2 @@
-# web-tech-e-commerce
-- Git repository for web technology e-commerce website
+# Simple e-commerce website using HTML and CSS
+
